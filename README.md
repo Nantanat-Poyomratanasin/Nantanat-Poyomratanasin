@@ -18,8 +18,6 @@
 
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,render" />
 
-### Currently Learning
 
-<img src="https://skillicons.dev/icons?i=typescript" />
 
 </div>
