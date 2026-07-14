@@ -1,12 +1,25 @@
-## 📈 GitHub Stats
+## 🚀 Tech Stack
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="start">
 
-## 🔥 Streak
+### Frontend
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,vite" />
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,render" />
+
+### Currently Learning
+
+<img src="https://skillicons.dev/icons?i=typescript" />
+
+</div>
